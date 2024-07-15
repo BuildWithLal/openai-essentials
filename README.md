@@ -1,8 +1,17 @@
-### OpenAI Basics using Python
+#### OpenAI Basics using Python
 
 * This repo includes basics of OpenAI using Python and OpenAI API
 * It covers interacting with OpenAI `GPT-3.5`, `GPT-4o` models.
-* It covers these topics with practical demos:
+
+#### Tech Stack
+
+* OpenAI
+* python-dotenv
+* notebook
+
+<br/>
+
+It covers these topics with practical demos:
 
 ##### 1. Chat Completion
 * Grammar Correction
@@ -17,8 +26,3 @@
 
 ##### 2. Function Calling
 
-#### Tech Stack
-
-* OpenAI
-* python-dotenv
-* notebook
