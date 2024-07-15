@@ -1,16 +1,21 @@
-#### OpenAI Basics using Python
+### OpenAI Basics using Python
 
 * This repo includes basics of OpenAI using Python and OpenAI API
 * It covers interacting with OpenAI `GPT-3.5`, `GPT-4o` models.
 * It covers these topics with practical demos:
 
-##### Chat Completion
-    * Grammar Correction
-    * Text To Emoji
-    * Code Explanation
-    * Image Explanation
+##### 1. Chat Completion
+* Grammar Correction
+* Text To Emoji
+* Code Explanation
+* Image Explanation
 
-##### Function Calling
+**Watch on YouTube**
+
+[![openai basics using python](https://img.youtube.com/vi/4_dTMYNcrIc/0.jpg)](https://www.youtube.com/watch?v=4_dTMYNcrIc)
+
+
+##### 2. Function Calling
 
 #### Tech Stack
 
