@@ -26,3 +26,7 @@ It covers these topics with practical demos:
 
 ##### 2. Function Calling
 [![OpenAI Function Calling](https://img.youtube.com/vi/sHZc08dBX5Y/0.jpg)](https://www.youtube.com/watch?v=sHZc08dBX5Y)
+
+##### 3. Image Generation with DALL-E Model
+[![Image Generation with DALL-E Model](https://img.youtube.com/vi/b_1L_MnauFs/0.jpg)](https://www.youtube.com/watch?v=b_1L_MnauFs)
+
