@@ -30,3 +30,6 @@ It covers these topics with practical demos:
 ##### 3. Image Generation with DALL-E Model
 [![Image Generation with DALL-E Model](https://img.youtube.com/vi/b_1L_MnauFs/0.jpg)](https://www.youtube.com/watch?v=b_1L_MnauFs)
 
+##### 4. Text To Speech using TTS Model
+[![Text To Speech with TTS Model](https://img.youtube.com/vi/UwyDNkw2Fis/0.jpg)](https://www.youtube.com/watch?v=UwyDNkw2Fis)
+
