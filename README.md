@@ -14,13 +14,6 @@
 It covers these topics with practical demos:
 
 ##### 1. Chat Completion
-* Grammar Correction
-* Text To Emoji
-* Code Explanation
-* Image Explanation
-
-**Watch on YouTube**
-
 [![openai basics using python](https://img.youtube.com/vi/4_dTMYNcrIc/0.jpg)](https://www.youtube.com/watch?v=4_dTMYNcrIc)
 
 
