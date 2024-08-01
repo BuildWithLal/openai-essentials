@@ -1,7 +1,7 @@
 #### OpenAI Basics using Python
 
 * This repo includes basics of OpenAI using Python and OpenAI API
-* It covers interacting with OpenAI `GPT-3.5 Turbo`, `GPT-4o`, `TTS`, `Whisper`, `DALL-E`, `Embeddings` models.
+* It covers interacting with OpenAI `GPT-3.5 Turbo`, `GPT-4o`, `TTS`, `Whisper`, `DALL-E`, `Fine-Tuning` models.
 
 #### Tech Stack
 
