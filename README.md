@@ -26,3 +26,5 @@ It covers these topics with practical demos:
 ##### 4. Text To Speech using TTS Model
 [![Text To Speech with TTS Model](https://img.youtube.com/vi/UwyDNkw2Fis/0.jpg)](https://www.youtube.com/watch?v=UwyDNkw2Fis)
 
+##### 5. Speech To Text using Whisper Model
+[![Speech To Text using Whisper Model](https://img.youtube.com/vi/X24Xtf2Iff8/0.jpg)](https://www.youtube.com/watch?v=X24Xtf2Iff8)
