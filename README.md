@@ -11,6 +11,7 @@ This repo provides a comprehensive guide to mastering OpenAI's powerful models u
 #### Topics Covered:
 * Introduction to OpenAI and its capabilities
 * Working with the GPT models
+* Connect GPT models with External tools using Function Calling
 * Image creation and manipulation with DALL-E
 * Text-to-speech conversion
 * Speech-to-text transcription with Whisper
