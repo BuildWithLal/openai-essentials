@@ -1,7 +1,26 @@
-#### OpenAI Basics using Python
+#### OpenAI Essentials using Python
 
-* This repo includes basics of OpenAI using Python and OpenAI API
-* It covers interacting with OpenAI `GPT-3.5 Turbo`, `GPT-4o`, `TTS`, `Whisper`, `DALL-E`, `Fine-Tuning` models.
+This repo provides a comprehensive guide to mastering OpenAI's powerful models using Python. Each topic is covered with detailed code examples and is accompanied by a YouTube tutorial for a complete learning experience.
+
+#### Features:
+* Comprehensive Coverage: From basics to advanced topics in OpenAI.
+* Python Code Examples: Practical and easy-to-follow examples.
+* YouTube Tutorials: Each topic includes a link to a corresponding YouTube video for visual learners.
+* Structured Learning Path: Follow a clear path from beginner to advanced topics.
+
+#### Topics Covered:
+* Introduction to OpenAI and its capabilities
+* Working with the GPT models
+* Image creation and manipulation with DALL-E
+* Text-to-speech conversion
+* Speech-to-text transcription with Whisper
+* Fine-tuning GPT models for specific tasks
+* Identify potential harmful text with Moderation Model
+
+#### How to Use:
+* Clone the Repository: git clone github.com/BuildWithLal/openai-essentials
+* Navigate to Topics: Each file contains code examples
+* Follow Along: Use the code and watch the videos to enhance your understanding.
 
 #### Tech Stack
 
@@ -11,7 +30,7 @@
 
 <br/>
 
-It covers these topics with practical demos:
+Practical demos:
 
 ##### 1. Chat Completion
 [![openai basics using python](https://img.youtube.com/vi/4_dTMYNcrIc/0.jpg)](https://www.youtube.com/watch?v=4_dTMYNcrIc)
