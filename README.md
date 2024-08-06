@@ -48,3 +48,7 @@ Practical demos:
 
 ##### 5. Speech To Text using Whisper Model
 [![Speech To Text using Whisper Model](https://img.youtube.com/vi/X24Xtf2Iff8/0.jpg)](https://www.youtube.com/watch?v=X24Xtf2Iff8)
+
+
+##### 6. Content Moderation using Moderation Model
+[![Content Moderation using Moderation Model](https://img.youtube.com/vi/FjGcd--jNfc/0.jpg)](https://www.youtube.com/watch?v=FjGcd--jNfc)
