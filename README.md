@@ -40,11 +40,14 @@ Practical demos:
 ##### 2. Function Calling
 [![OpenAI Function Calling](https://img.youtube.com/vi/sHZc08dBX5Y/0.jpg)](https://www.youtube.com/watch?v=sHZc08dBX5Y)
 
+
 ##### 3. Image Generation with DALL-E Model
 [![Image Generation with DALL-E Model](https://img.youtube.com/vi/b_1L_MnauFs/0.jpg)](https://www.youtube.com/watch?v=b_1L_MnauFs)
 
+
 ##### 4. Text To Speech using TTS Model
 [![Text To Speech with TTS Model](https://img.youtube.com/vi/UwyDNkw2Fis/0.jpg)](https://www.youtube.com/watch?v=UwyDNkw2Fis)
+
 
 ##### 5. Speech To Text using Whisper Model
 [![Speech To Text using Whisper Model](https://img.youtube.com/vi/X24Xtf2Iff8/0.jpg)](https://www.youtube.com/watch?v=X24Xtf2Iff8)
@@ -52,3 +55,7 @@ Practical demos:
 
 ##### 6. Content Moderation using Moderation Model
 [![Content Moderation using Moderation Model](https://img.youtube.com/vi/FjGcd--jNfc/0.jpg)](https://www.youtube.com/watch?v=FjGcd--jNfc)
+
+
+##### 7. Custom GPT Models: Fine-Tune a GPT Model with OpenAI API
+[![Custom GPT Models: Fine-Tune a GPT Model with OpenAI API](https://img.youtube.com/vi/VDwvKJsFCdU/0.jpg)](https://www.youtube.com/watch?v=VDwvKJsFCdU)
