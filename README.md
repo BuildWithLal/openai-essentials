@@ -21,9 +21,9 @@ This repo provides a comprehensive guide to mastering OpenAI's powerful models u
 
 
 #### How to Use:
-* Clone the Repository: git clone github.com/BuildWithLal/openai-essentials
+* Clone the Repository: `git clone github.com/BuildWithLal/openai-essentials.git`
 * Navigate to Topics: Each file contains code examples
-* Follow Along: Use the code and watch the videos to enhance your understanding.
+* Follow Along: Use the code and watch the videos or read relevant articles to enhance your understanding.
 
 #### Tech Stack
 
