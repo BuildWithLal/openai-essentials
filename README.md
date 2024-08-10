@@ -5,18 +5,20 @@ This repo provides a comprehensive guide to mastering OpenAI's powerful models u
 #### Features:
 * Comprehensive Coverage: From basics to advanced topics in OpenAI.
 * Python Code Examples: Practical and easy-to-follow examples.
-* YouTube Tutorials: Each topic includes a link to a corresponding YouTube video for visual learners.
+* [YouTube Tutorials](https://www.youtube.com/playlist?list=PLJwCGAFWNNeFC39Ud-Jras6emjamtRqll): Each topic includes a link to a corresponding YouTube video for visual learners.
 * Structured Learning Path: Follow a clear path from beginner to advanced topics.
 
 #### Topics Covered:
-* Introduction to OpenAI and its capabilities
-* Working with the GPT models
-* Connect GPT models with External tools using Function Calling
-* Image creation and manipulation with DALL-E
-* Text-to-speech conversion
-* Speech-to-text transcription with Whisper
-* Fine-tuning GPT models for specific tasks
-* Identify potential harmful text with Moderation Model
+* [What is Generative AI and Large Language Models](https://medium.com/@BuildWithLal/generative-ai-large-language-model-and-how-to-use-it-3a01d7abb77d)
+* [Introduction to OpenAI and Working with the GPT models](https://medium.com/gopenai/openai-basics-in-python-5a97fd8ce13c)
+* [Understand GPT Tokens and Brief Comparison of GPT Models](https://medium.com/gopenai/understand-gpt-tokens-and-models-comparison-16acc771a01c)
+* [Connect GPT models with External tools using Function Calling](https://medium.com/gopenai/supercharge-gpt-model-connect-with-external-tools-using-openai-function-calling-241263aecade)
+* [Image creation and manipulation with DALL-E](https://medium.com/gopenai/unlock-image-creation-with-openai-dall-e-create-edit-manipulate-b37a5a81f40e)
+* [Text-to-speech conversion](https://medium.com/gopenai/openai-text-to-speech-bridging-language-barriers-with-versatile-voice-solutions-c1bb84a1679d)
+* [Speech-to-text transcription and translation with Whisper](https://medium.com/gopenai/from-voice-to-text-openai-whisper-model-in-action-273ee4f3b46e)
+* [Identify potential harmful text with Moderation Model](https://medium.com/gopenai/ai-powered-text-moderation-secure-content-with-openai-2eb2898b562f)
+* [Fine-tuning GPT models for specific tasks](https://medium.com/gopenai/custom-gpt-models-fine-tune-a-gpt-model-with-openai-api-fad973968657)
+
 
 #### How to Use:
 * Clone the Repository: git clone github.com/BuildWithLal/openai-essentials
