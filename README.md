@@ -18,6 +18,7 @@ This repo provides a comprehensive guide to mastering OpenAI's powerful models u
 * [Speech-to-text transcription and translation with Whisper](https://medium.com/gopenai/from-voice-to-text-openai-whisper-model-in-action-273ee4f3b46e)
 * [Identify potential harmful text with Moderation Model](https://medium.com/gopenai/ai-powered-text-moderation-secure-content-with-openai-2eb2898b562f)
 * [Fine-tuning GPT models for specific tasks](https://medium.com/gopenai/custom-gpt-models-fine-tune-a-gpt-model-with-openai-api-fad973968657)
+* [OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens](https://medium.com/@BuildWithLal/openai-rate-limits-essential-guide-to-manage-requests-and-tokens-35cafa58de05)
 
 
 #### How to Use:
@@ -61,3 +62,8 @@ Practical demos:
 
 ##### 7. Custom GPT Models: Fine-Tune a GPT Model with OpenAI API
 [![Custom GPT Models: Fine-Tune a GPT Model with OpenAI API](https://img.youtube.com/vi/VDwvKJsFCdU/0.jpg)](https://www.youtube.com/watch?v=VDwvKJsFCdU)
+
+
+##### 8. OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens
+[![OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens](https://img.youtube.com/vi/VvmB8nHV8UU/0.jpg)](https://www.youtube.com/watch?v=VvmB8nHV8UU)
+
