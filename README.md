@@ -19,6 +19,7 @@ This repo provides a comprehensive guide to mastering OpenAI's powerful models u
 * [Identify potential harmful text with Moderation Model](https://medium.com/gopenai/ai-powered-text-moderation-secure-content-with-openai-2eb2898b562f)
 * [Fine-tuning GPT models for specific tasks](https://medium.com/gopenai/custom-gpt-models-fine-tune-a-gpt-model-with-openai-api-fad973968657)
 * [OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens](https://medium.com/@BuildWithLal/openai-rate-limits-essential-guide-to-manage-requests-and-tokens-35cafa58de05)
+* [Save 50% on OpenAI: Complete Guide to Batch Requests](https://medium.com/gopenai/save-50-on-openai-complete-guide-to-batch-requests-e4019e66ca5d)
 
 
 #### How to Use:
@@ -66,4 +67,8 @@ Practical demos:
 
 ##### 8. OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens
 [![OpenAI Rate Limits - Essential Guide to Manage Requests and Tokens](https://img.youtube.com/vi/VvmB8nHV8UU/0.jpg)](https://www.youtube.com/watch?v=VvmB8nHV8UU)
+
+
+##### 9. Save 50% on OpenAI: Complete Guide to Batch Requests
+[![Save 50% on OpenAI: Complete Guide to Batch Requests](https://img.youtube.com/vi/YVjr4HprklU/0.jpg)](https://www.youtube.com/watch?v=YVjr4HprklU)
 
