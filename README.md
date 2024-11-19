@@ -1,11 +1,10 @@
 #### OpenAI Essentials using Python
 
-This repo provides a comprehensive guide to mastering OpenAI's powerful models using Python. Each topic is covered with detailed **code examples**, a detailed **Medium.com article** and is accompanied by a **YouTube tutorial** for a complete learning experience.
+This repo provides a comprehensive guide to mastering OpenAI's powerful models using Python. Each topic is covered with detailed **code examples**
 
 #### Features:
 * Comprehensive Coverage: From basics to advanced topics in OpenAI.
 * Python Code Examples: Practical and easy-to-follow examples.
-* YouTube Tutorials: Each topic includes a link to a corresponding YouTube video for visual learners.
 * Structured Learning Path: Follow a clear path from beginner to advanced topics.
 
 #### Topics Covered:
